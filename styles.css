@@ -1,4 +1,4 @@
-/*tag selectors*/
+
 
   body
   { background-color:#D6E4E5;}
@@ -10,13 +10,11 @@
       height:0px;
        width:5%;}
        h3{color:#497174}
-       h2{color:#497174}
-
-/*class selectors*/
+h2{color:#497174}
 
 
        .nisha{background:#F2DEBA;}
 
-/*****id selector*********/
+
 #heading{background-color:#497174}
 #tail{background-color:#497174}
